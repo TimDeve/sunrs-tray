@@ -5,5 +5,5 @@ authors = ["Tim Deve <timdeve@users.noreply.github.com>"]
 edition = "2018"
 
 [dependencies]
-sunrs = { git = "https://github.com/TimDeve/sunrs.git", rev = "6c99aa6" }
+sunrs = { git = "https://github.com/TimDeve/sunrs.git", rev = "200e3ac" }
 systray = "0.4.0"
